@@ -1,3 +1,5 @@
+![Logo](https://github.com/senajpeg/JetTipApp/blob/main/t1.png?raw=true)
+
 
 Description: JetTipApp is a calculation app developed for the Android platform. It allows users to input a bill amount and calculate the total per person by selecting the split count and tip percentage. Developed with Jetpack Compose, it offers a user-friendly interface with modern UI components.
 
