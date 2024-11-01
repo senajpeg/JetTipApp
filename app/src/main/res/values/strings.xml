@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JetTipApp</string>
+    <string name="total_per_person">Total Per Person</string>
+    <string name="enter_bill">Enter Bill</string>
+    <string name="split">Split</string>
+    <string name="tip">Tip</string>
+</resources>
